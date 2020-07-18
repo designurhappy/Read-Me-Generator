@@ -1,8 +1,8 @@
-# klja;lkdfa
+# README Generator
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
   ## Description 
-  lkhadfl;khda
+  This command line application allows the user to quickly and easily generate a professional README.md file which provides information on their application
 
   
   ## Table of Contents
@@ -20,7 +20,7 @@
 
   
   ## Usage
-     What to know about using the repo: dka
+     What to know about using the repo: They are welcome to use the code to assist in their projects
 
   
   ## License
@@ -28,7 +28,7 @@
 
 
   ## Contributing
-     What to know about using the repo: dklha
+     What to know about using the repo: Branch for each separate piece of work, write good commit messages, and read the CONTRIBUTING file if there is one and push to your origin repository.
 
 
   ## Test
@@ -36,8 +36,8 @@
 
 
   ## Questions
-     * GitHub Username: 
-     * GitHub Link: dlkajlk;mjn
-     * Email Address: dkjad
+     * GitHub Username: designurhappy
+     * GitHub Link: https://github.com/designurhappy
+     * Email Address: beachgal0105@gmail.com
      * Contact Instructions: Please email me for additional questions or call me at (222) 555-1234.
 

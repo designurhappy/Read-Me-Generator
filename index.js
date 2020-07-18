@@ -2,7 +2,7 @@
 const fs = require("fs");
 const path = require("path")
 const inquirer = require("inquirer");
-// const generateMarkdown = require(".utils/generateMarkdown");
+const generateMarkdown = require("./utils/generateMarkdown");
 
 const questions = [
 {
@@ -13,6 +13,11 @@ const questions = [
     type: "input",
     name: "email",
     message: "What is your email address?"
+},
+{
+    type: "input",
+    name: "githublink",
+    message: "What is the link to your GitHub profile?"
 },
 {
     type:"input",
